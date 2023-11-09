@@ -1,0 +1,6 @@
+[WARNING ] [discord.ext.commands.bot] Privileged message content intent is missing, commands may not work as expected.
+[INFO    ] [discord.client] logging in using static token
+[INFO    ] [discord.gateway] Shard ID None has connected to Gateway (Session ID: 4b8b766b7c8f2c8f7e98d38a52b5d6a9).
+[INFO    ] [client] - Custom status set
+[INFO    ] [client] - Synced 5 command(s)
+[INFO    ] [client] - Hypixel SMP Status#1683 is online
